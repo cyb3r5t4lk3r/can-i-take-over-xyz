@@ -36,6 +36,18 @@
     "vulnerable": true
   },
   {
+    "cicd_pass": true,
+    "cname": ["compute-1.amazonaws.com"],
+    "discussion": "",
+    "documentation": "",
+    "fingerprint": "",
+    "http_status": null,
+    "nxdomain": false,
+    "service": "AWS/Compute",
+    "status": "Vulnerable",
+    "vulnerable": true
+  },
+  {
     "cicd_pass": false,
     "cname": [],
     "discussion": "[Issue #103](https://github.com/EdOverflow/can-i-take-over-xyz/issues/103)",
@@ -547,6 +559,7 @@
       "cloudapp.azure.com",
       "azurewebsites.net",
       "blob.core.windows.net",
+      "trafficmanager.net",
       "cloudapp.azure.com",
       "azure-api.net",
       "azurehdinsight.net",
