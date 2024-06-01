@@ -543,6 +543,7 @@
     "cicd_pass": true,
     "cname": [
       "cloudapp.net",
+      "azurefd.net",
       "cloudapp.azure.com",
       "azurewebsites.net",
       "blob.core.windows.net",
